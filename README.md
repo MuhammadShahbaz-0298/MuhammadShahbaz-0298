@@ -11,7 +11,7 @@
 ---
 
 ## 📊 GitHub Stats:
-![Stats](https://github-readme-stats.vercel.app/api?username=MuhammadShahbaz-0298&show_icons=true&theme=tokyonight)
+![Stats](https://github-readme-stats.vercel.app/api?username=MuhammadShahbaz-0298&show_icons=true&theme=tokyonight&count_private=true)
 
 ---
 
@@ -26,12 +26,22 @@
 ---
 
 ## 🧠 Top Languages:
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MuhammadShahbaz-0298&layout=compact&theme=tokyonight)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MuhammadShahbaz-0298&layout=compact&theme=tokyonight&count_private=true)
 
 ---
 
 ## 💡 About Me:
-- 🔭 Currently working on .NET & React projects  
+- 🔭 Working on .NET & React projects  
 - 📱 Learning Flutter for mobile apps  
+- 🧠 Strong grip on C#, OOP & Web Development  
 - 🎯 Goal: Become a high-level full stack engineer  
-- ⚡ Fun fact: I debug faster than I sleep 😄
+- ⚡ Fun fact: I debug faster than I sleep 😄  
+
+---
+
+## 🌐 Connect with me:
+- GitHub: https://github.com/MuhammadShahbaz-0298
+
+---
+
+⭐ From Muhammad Shahbaz
