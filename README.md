@@ -1,53 +1,58 @@
-# Hi, I'm Muhammad Shahbaz 👋
+@@ -1,47 +1,53 @@
+# 👋 Hi, I'm Muhammad Shahbaz
 
-I'm a Full Stack Developer who enjoys building clean, practical, and user-friendly applications.  
-I mainly work with .NET and React, and recently I've been exploring Flutter for mobile development.
-
----
-
-## 💻 What I Work With
-
-- **Backend:** C#, ASP.NET Core, Web APIs  
-- **Frontend:** React, JavaScript / TypeScript, HTML, CSS, Tailwind  
-- **Database:** SQL Server, MySQL  
-- **Other Tools:** Git, GitHub, Bootstrap  
+💻 Full Stack Developer | ⚙️ .NET Developer | ⚛️ React Developer | 📱 Flutter Learner  
+🚀 Passionate about building modern UI, scalable apps & solving real-world problems  
 
 ---
 
-## 🚀 What I'm Doing Right Now
+## 🚀 Tech Stack:
+![Skills](https://skillicons.dev/icons?i=cs,dotnet,react,js,ts,html,css,bootstrap,tailwind,nodejs,php,mysql,git,github,flutter,dart)
 
-- Building and improving projects using **.NET & React**
-- Learning **Flutter** to expand into mobile apps  
-- Focusing on writing **clean, maintainable code**
+
+
+
 
 ---
 
-## 📊 GitHub Activity
-
+## 📊 GitHub Stats:
 ![Stats](https://github-readme-stats.vercel.app/api?username=MuhammadShahbaz-0298&show_icons=true&theme=tokyonight&count_private=true)
 
+
+
+
+---
+
+## 🔥 Streak Stats:
 ![Streak](https://streak-stats.demolab.com?user=MuhammadShahbaz-0298&theme=tokyonight)
 
 ---
 
-## 📌 Note
-
-Most of my consistent work is done in private repositories,  
-so GitHub stats may not fully reflect my actual activity.
+## 📈 Contribution Graph:
+![Graph](https://github-readme-activity-graph.vercel.app/graph?username=MuhammadShahbaz-0298&theme=tokyo-night)
 
 ---
 
-## 🌱 Mindset
+## 🧠 Top Languages:
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MuhammadShahbaz-0298&layout=compact&theme=tokyonight&count_private=true)
 
-I focus more on **learning, building, and improving** rather than just numbers.  
-Always aiming to grow as a developer and work on meaningful projects.
+
 
 ---
 
-## 📫 Connect
+## 💡 About Me:
+- 🔭 Working on .NET & React projects  
+- 📱 Learning Flutter for mobile apps  
+- 🧠 Strong grip on C#, OOP & Web Development  
+- 🎯 Goal: Become a high-level full stack engineer  
+- ⚡ Fun fact: I debug faster than I sleep 😄  
+
+---
+
+## 🌐 Connect with me:
 
 - GitHub: https://github.com/MuhammadShahbaz-0298
 
 ---
 
-_Thanks for visiting my profile._
+⭐ From Muhammad Shahbaz
