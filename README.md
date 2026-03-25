@@ -1,16 +1,34 @@
-## Hi there 👋
+# 👋 Hi, I'm Muhammad Shahbaz
 
-<!--
-**MuhammadShahbaz-0298/MuhammadShahbaz-0298** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+💻 C# Developer | 🌐 Web Developer | 📱 Flutter Learner  
+🚀 Passionate about coding, UI design, and building projects  
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🚀 Languages and Tools:
+![Skills](https://skillicons.dev/icons?i=aws,bootstrap,css,docker,git,github,html,js,react,nodejs,php,mysql,ts,vue,cs,dotnet,flutter)
+
+---
+
+## 📊 GitHub Stats:
+![Stats](https://github-readme-stats.vercel.app/api?username=MuhammadShahbaz-0298&show_icons=true&theme=tokyonight)
+
+---
+
+## 🔥 Streak Stats:
+![Streak](https://streak-stats.demolab.com?user=MuhammadShahbaz-0298&theme=tokyonight)
+
+---
+
+## 📈 Contribution Graph:
+![Graph](https://github-readme-activity-graph.vercel.app/graph?username=MuhammadShahbaz-0298&theme=tokyo-night)
+
+---
+
+## 🧠 Top Languages:
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MuhammadShahbaz-0298&layout=compact&theme=tokyonight)
+
+---
+
+## ⚡ Fun Fact:
+I turn ☕ into code 😄
