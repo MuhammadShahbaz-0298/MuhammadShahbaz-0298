@@ -1,12 +1,12 @@
 # 👋 Hi, I'm Muhammad Shahbaz
 
-💻 C# Developer | 🌐 Web Developer | 📱 Flutter Learner  
-🚀 Passionate about coding, UI design, and building projects  
+💻 Full Stack Developer | ⚙️ .NET Developer | ⚛️ React Developer | 📱 Flutter Learner  
+🚀 Passionate about building modern UI, scalable apps & solving real-world problems  
 
 ---
 
-## 🚀 Languages and Tools:
-![Skills](https://skillicons.dev/icons?i=aws,bootstrap,css,docker,git,github,html,js,react,nodejs,php,mysql,ts,vue,cs,dotnet,flutter)
+## 🚀 Tech Stack:
+![Skills](https://skillicons.dev/icons?i=cs,dotnet,react,js,ts,html,css,bootstrap,tailwind,nodejs,php,mysql,git,github,flutter,dart)
 
 ---
 
@@ -30,5 +30,8 @@
 
 ---
 
-## ⚡ Fun Fact:
-I turn ☕ into code 😄
+## 💡 About Me:
+- 🔭 Currently working on .NET & React projects  
+- 📱 Learning Flutter for mobile apps  
+- 🎯 Goal: Become a high-level full stack engineer  
+- ⚡ Fun fact: I debug faster than I sleep 😄
