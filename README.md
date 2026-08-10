@@ -13,18 +13,12 @@
 <img src="https://komarev.com/ghpvc/?username=MuhammadShahbaz-0298&label=Profile%20Views&color=58A6FF&style=for-the-badge" alt="Profile Views"/>
 <img src="https://img.shields.io/github/followers/MuhammadShahbaz-0298?label=Followers&style=for-the-badge&color=58A6FF" alt="Followers"/>
 
-<br/><br/>
-
-<img src="https://user-images.githubusercontent.com/74038190/212284158-e840e285-664b-44d7-b79b-e264b5e54825.gif" width="500">
-
 </div>
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:58A6FF,100:2C5364&height=3&section=header&text=&fontSize=0" width="100%"/>
-
-<br/>
+<img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" width="100%">
 
 <div align="center">
-  <img src="https://user-images.githubusercontent.com/74038190/216122041-518ac897-8d92-4c6b-9b3f-ca01dcaf38ee.png" width="30">
+  <img src="https://user-images.githubusercontent.com/74038190/216122041-518ac897-8d92-4c6b-9b3f-ca01dcaf38ee.png" width="28">
   <h2>About Me</h2>
 </div>
 
@@ -39,17 +33,13 @@ fun_fact: "I debug faster than I sleep 😄"
 ```
 
 <div align="center">
-<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="450">
+<img src="https://user-images.githubusercontent.com/74038190/212747657-7a8d59da-69c8-4110-8ea8-f8102fd0b413.gif" width="320">
 </div>
 
-<br/>
-
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:2C5364,100:58A6FF&height=3&section=header&text=&fontSize=0" width="100%"/>
-
-<br/>
+<img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" width="100%">
 
 <div align="center">
-  <img src="https://user-images.githubusercontent.com/74038190/212257467-871d32b7-e401-42e8-a166-fcfd7baa4c6b.gif" width="30">
+  <img src="https://user-images.githubusercontent.com/74038190/216122028-c05b52fb-983e-4ee8-8811-6f30cd9ea5d5.png" width="28">
   <h2>Tech Stack</h2>
 </div>
 
@@ -59,18 +49,14 @@ fun_fact: "I debug faster than I sleep 😄"
 
 <br/><br/>
 
-<img src="https://github-readme-tech-stack.vercel.app/api/cards?title=Daily+Tools&align=center&lineCount=1&theme=dark&badgeTheme=default&line1=csharp,c%23;dotnet,.net;react,react;javascript,js;typescript,ts;flutter,flutter;" alt="Tech Stack Cards"/>
+<img src="https://user-images.githubusercontent.com/74038190/219923809-b86dc415-a0c2-4a38-bc88-ad6cf06395a8.gif" width="450">
 
 </div>
 
-<br/>
-
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:58A6FF,100:2C5364&height=3&section=header&text=&fontSize=0" width="100%"/>
-
-<br/>
+<img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" width="100%">
 
 <div align="center">
-  <img src="https://user-images.githubusercontent.com/74038190/212257454-16e3712e-945a-4ca2-b238-408adfa39184.gif" width="30">
+  <img src="https://user-images.githubusercontent.com/74038190/221352987-68da234d-4d62-4e9d-9d7f-098dc657c2dc.gif" width="30">
   <h2>GitHub Stats</h2>
 </div>
 
@@ -89,14 +75,10 @@ fun_fact: "I debug faster than I sleep 😄"
 
 </div>
 
-<br/>
-
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:2C5364,100:58A6FF&height=3&section=header&text=&fontSize=0" width="100%"/>
-
-<br/>
+<img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" width="100%">
 
 <div align="center">
-  <img src="https://user-images.githubusercontent.com/74038190/238200426-29fd6286-4e7b-4d6c-818f-c4765d5e39a9.gif" width="30">
+  <img src="https://user-images.githubusercontent.com/74038190/212284087-bbe7e430-757e-4901-90bf-4cd2ce3e1852.gif" width="30">
   <h2>Contribution Snake</h2>
 
 <img src="https://raw.githubusercontent.com/MuhammadShahbaz-0298/MuhammadShahbaz-0298/output/github-contribution-grid-snake-dark.svg" alt="Snake animation" width="95%"/>
@@ -105,11 +87,7 @@ fun_fact: "I debug faster than I sleep 😄"
 
 </div>
 
-<br/>
-
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:58A6FF,100:2C5364&height=3&section=header&text=&fontSize=0" width="100%"/>
-
-<br/>
+<img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" width="100%">
 
 <div align="center">
   <img src="https://user-images.githubusercontent.com/74038190/212284087-bbe7e430-757e-4901-90bf-4cd2ce3e1852.gif" width="30">
@@ -136,26 +114,18 @@ fun_fact: "I debug faster than I sleep 😄"
 
 </div>
 
-<br/>
-
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:2C5364,100:58A6FF&height=3&section=header&text=&fontSize=0" width="100%"/>
-
-<br/>
+<img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" width="100%">
 
 <div align="center">
-  <img src="https://user-images.githubusercontent.com/74038190/221352975-b3fbc10a-9c0a-4192-9cd8-eb75e2e70ac0.gif" width="30">
+  <img src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/0d554abf-6a41-4856-be43-5dbb4df0915b" width="30">
   <h2>GitHub Trophies</h2>
   <img src="https://github-profile-trophy.vercel.app/?username=MuhammadShahbaz-0298&theme=tokyonight&no-frame=true&row=1&column=7&margin-w=8&animation=slideIn" alt="Trophies" />
 </div>
 
-<br/>
-
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:58A6FF,100:2C5364&height=3&section=header&text=&fontSize=0" width="100%"/>
-
-<br/>
+<img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" width="100%">
 
 <div align="center">
-  <img src="https://user-images.githubusercontent.com/74038190/213844263-a8897a51-32f4-4b3b-b5c2-e1528b89f6f3.png" width="30">
+  <img src="https://user-images.githubusercontent.com/74038190/216122069-5b8169d7-1d8e-4a13-b245-a8e4176c99f8.png" width="28">
   <h2>Currently</h2>
 </div>
 
@@ -173,14 +143,10 @@ fun_fact: "I debug faster than I sleep 😄"
 
 </div>
 
-<br/>
-
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:2C5364,100:58A6FF&height=3&section=header&text=&fontSize=0" width="100%"/>
-
-<br/>
+<img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" width="100%">
 
 <div align="center">
-  <img src="https://user-images.githubusercontent.com/74038190/212284119-fbfd994d-8c2a-4a03-9e93-8f3a344e3fa5.gif" width="30">
+  <img src="https://user-images.githubusercontent.com/74038190/216120981-b9507c36-0e04-4469-8e27-c99271b45ba5.png" width="28">
   <h2>Connect With Me</h2>
 </div>
 
@@ -189,11 +155,11 @@ fun_fact: "I debug faster than I sleep 😄"
 <a href="https://github.com/MuhammadShahbaz-0298">
   <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
 </a>
-<!-- Replace # with your real links -->
+<!-- Replace # with your real LinkedIn / Portfolio links -->
 <a href="#">
   <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
 </a>
-<a href="#">
+<a href="mailto:muhammadshahbazali001@gmail.com">
   <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
 </a>
 <a href="#">
@@ -202,11 +168,9 @@ fun_fact: "I debug faster than I sleep 😄"
 
 <br/><br/>
 
-<img src="https://user-images.githubusercontent.com/74038190/212284158-e840e285-664b-44d7-b79b-e264b5e54825.gif" width="120">
+<img src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/19b4ef1d-2035-4e6f-8484-8bd79d604dc9" width="220">
 
 </div>
-
-<br/>
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:2C5364,50:203A43,100:0F2027&height=120&section=footer&animation=twinkling" width="100%"/>
 
