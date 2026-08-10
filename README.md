@@ -54,19 +54,8 @@ fun_fact: "I debug faster than I sleep"
 <br/>
 
 <div align="center">
-  <img src="https://api.iconify.design/mdi/folder-star-outline.svg?color=%2358A6FF" width="24" height="24"/>
+<img src="https://user-images.githubusercontent.com/74038190/219923809-b86dc415-a0c2-4a38-bc88-ad6cf06395a8.gif" width="420">
 </div>
-
-## Featured Projects
-
-| Project | Stack |
-|---|---|
-| [**Furniture-React-Native-Cli**](https://github.com/MuhammadShahbaz-0298/Furniture-React-Native-Cli) | ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black) |
-| [**Salon-Management-System**](https://github.com/MuhammadShahbaz-0298/Salon-Management-System) | ![CSS](https://img.shields.io/badge/CSS-1572B6?style=flat-square&logo=css3&logoColor=white) |
-| [**Online-Recharge**](https://github.com/MuhammadShahbaz-0298/Online-Recharge) | ![CSS](https://img.shields.io/badge/CSS-1572B6?style=flat-square&logo=css3&logoColor=white) |
-| [**Astronomy**](https://github.com/MuhammadShahbaz-0298/Astronomy) | ![HTML](https://img.shields.io/badge/HTML-E34F26?style=flat-square&logo=html5&logoColor=white) |
-| [**Mongo-Topics**](https://github.com/MuhammadShahbaz-0298/Mongo-Topics) | ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black) |
-
 <br/>
 
 <div align="center">
@@ -88,6 +77,8 @@ fun_fact: "I debug faster than I sleep"
 <a href="#">
   <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio"/>
 </a>
+<br/><br/>
+<img src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/19b4ef1d-2035-4e6f-8484-8bd79d604dc9" width="200">
 </div>
 <br/>
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:2C5364,50:203A43,100:0F2027&height=100&section=footer" width="100%"/>
