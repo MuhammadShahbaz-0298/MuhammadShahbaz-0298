@@ -15,7 +15,7 @@
 
 </div>
 
-<img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" width="100%">
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0F2027,50:2C5364,100:0F2027&height=4&section=header&text=&fontSize=0" width="100%"/>
 
 <div align="center">
   <img src="https://user-images.githubusercontent.com/74038190/216122041-518ac897-8d92-4c6b-9b3f-ca01dcaf38ee.png" width="28">
@@ -36,7 +36,7 @@ fun_fact: "I debug faster than I sleep 😄"
 <img src="https://user-images.githubusercontent.com/74038190/212747657-7a8d59da-69c8-4110-8ea8-f8102fd0b413.gif" width="320">
 </div>
 
-<img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" width="100%">
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0F2027,50:2C5364,100:0F2027&height=4&section=header&text=&fontSize=0" width="100%"/>
 
 <div align="center">
   <img src="https://user-images.githubusercontent.com/74038190/216122028-c05b52fb-983e-4ee8-8811-6f30cd9ea5d5.png" width="28">
@@ -53,7 +53,7 @@ fun_fact: "I debug faster than I sleep 😄"
 
 </div>
 
-<img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" width="100%">
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0F2027,50:2C5364,100:0F2027&height=4&section=header&text=&fontSize=0" width="100%"/>
 
 <div align="center">
   <img src="https://user-images.githubusercontent.com/74038190/221352987-68da234d-4d62-4e9d-9d7f-098dc657c2dc.gif" width="30">
@@ -62,8 +62,8 @@ fun_fact: "I debug faster than I sleep 😄"
 
 <div align="center">
 
-<img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=MuhammadShahbaz-0298&show_icons=true&theme=tokyonight&count_private=true&hide_border=true&rank_icon=github" alt="GitHub Stats" height="165"/>
-<img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=MuhammadShahbaz-0298&layout=compact&theme=tokyonight&count_private=true&hide_border=true" alt="Top Languages" height="165"/>
+<img src="https://github-readme-stats.vercel.app/api?username=MuhammadShahbaz-0298&show_icons=true&theme=tokyonight&count_private=true&hide_border=true&rank_icon=github" alt="GitHub Stats" height="165"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MuhammadShahbaz-0298&layout=compact&theme=tokyonight&count_private=true&hide_border=true" alt="Top Languages" height="165"/>
 
 <br/>
 
@@ -75,7 +75,7 @@ fun_fact: "I debug faster than I sleep 😄"
 
 </div>
 
-<img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" width="100%">
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0F2027,50:2C5364,100:0F2027&height=4&section=header&text=&fontSize=0" width="100%"/>
 
 <div align="center">
   <img src="https://user-images.githubusercontent.com/74038190/212284087-bbe7e430-757e-4901-90bf-4cd2ce3e1852.gif" width="30">
@@ -87,7 +87,7 @@ fun_fact: "I debug faster than I sleep 😄"
 
 </div>
 
-<img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" width="100%">
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0F2027,50:2C5364,100:0F2027&height=4&section=header&text=&fontSize=0" width="100%"/>
 
 <div align="center">
   <img src="https://user-images.githubusercontent.com/74038190/212284087-bbe7e430-757e-4901-90bf-4cd2ce3e1852.gif" width="30">
@@ -97,24 +97,24 @@ fun_fact: "I debug faster than I sleep 😄"
 <div align="center">
 
 <a href="https://github.com/MuhammadShahbaz-0298/Furniture-React-Native-Cli">
-  <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/pin/?username=MuhammadShahbaz-0298&repo=Furniture-React-Native-Cli&theme=tokyonight&hide_border=true" alt="Furniture React Native Cli"/>
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=MuhammadShahbaz-0298&repo=Furniture-React-Native-Cli&theme=tokyonight&hide_border=true" alt="Furniture React Native Cli"/>
 </a>
 <a href="https://github.com/MuhammadShahbaz-0298/Salon-Management-System">
-  <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/pin/?username=MuhammadShahbaz-0298&repo=Salon-Management-System&theme=tokyonight&hide_border=true" alt="Salon Management System"/>
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=MuhammadShahbaz-0298&repo=Salon-Management-System&theme=tokyonight&hide_border=true" alt="Salon Management System"/>
 </a>
 
 <br/>
 
 <a href="https://github.com/MuhammadShahbaz-0298/Online-Recharge">
-  <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/pin/?username=MuhammadShahbaz-0298&repo=Online-Recharge&theme=tokyonight&hide_border=true" alt="Online Recharge"/>
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=MuhammadShahbaz-0298&repo=Online-Recharge&theme=tokyonight&hide_border=true" alt="Online Recharge"/>
 </a>
 <a href="https://github.com/MuhammadShahbaz-0298/Astronomy">
-  <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/pin/?username=MuhammadShahbaz-0298&repo=Astronomy&theme=tokyonight&hide_border=true" alt="Astronomy"/>
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=MuhammadShahbaz-0298&repo=Astronomy&theme=tokyonight&hide_border=true" alt="Astronomy"/>
 </a>
 
 </div>
 
-<img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" width="100%">
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0F2027,50:2C5364,100:0F2027&height=4&section=header&text=&fontSize=0" width="100%"/>
 
 <div align="center">
   <img src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/0d554abf-6a41-4856-be43-5dbb4df0915b" width="30">
@@ -122,7 +122,7 @@ fun_fact: "I debug faster than I sleep 😄"
   <img src="https://github-profile-trophy.vercel.app/?username=MuhammadShahbaz-0298&theme=tokyonight&no-frame=true&row=1&column=7&margin-w=8&animation=slideIn" alt="Trophies" />
 </div>
 
-<img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" width="100%">
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0F2027,50:2C5364,100:0F2027&height=4&section=header&text=&fontSize=0" width="100%"/>
 
 <div align="center">
   <img src="https://user-images.githubusercontent.com/74038190/216122069-5b8169d7-1d8e-4a13-b245-a8e4176c99f8.png" width="28">
@@ -143,7 +143,7 @@ fun_fact: "I debug faster than I sleep 😄"
 
 </div>
 
-<img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" width="100%">
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0F2027,50:2C5364,100:0F2027&height=4&section=header&text=&fontSize=0" width="100%"/>
 
 <div align="center">
   <img src="https://user-images.githubusercontent.com/74038190/216120981-b9507c36-0e04-4469-8e27-c99271b45ba5.png" width="28">
