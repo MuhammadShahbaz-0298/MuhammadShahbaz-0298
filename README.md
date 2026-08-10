@@ -101,6 +101,30 @@ fun_fact: "I debug faster than I sleep 😄"
 
 <br/>
 
+## 📌 Featured Projects
+
+<div align="center">
+
+<a href="https://github.com/MuhammadShahbaz-0298/Furniture-React-Native-Cli">
+  <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/pin/?username=MuhammadShahbaz-0298&repo=Furniture-React-Native-Cli&theme=tokyonight&hide_border=true" alt="Furniture React Native Cli"/>
+</a>
+<a href="https://github.com/MuhammadShahbaz-0298/Salon-Management-System">
+  <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/pin/?username=MuhammadShahbaz-0298&repo=Salon-Management-System&theme=tokyonight&hide_border=true" alt="Salon Management System"/>
+</a>
+
+<br/>
+
+<a href="https://github.com/MuhammadShahbaz-0298/Online-Recharge">
+  <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/pin/?username=MuhammadShahbaz-0298&repo=Online-Recharge&theme=tokyonight&hide_border=true" alt="Online Recharge"/>
+</a>
+<a href="https://github.com/MuhammadShahbaz-0298/Astronomy">
+  <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/pin/?username=MuhammadShahbaz-0298&repo=Astronomy&theme=tokyonight&hide_border=true" alt="Astronomy"/>
+</a>
+
+</div>
+
+<br/>
+
 ## ⚡ Live Coding Activity
 
 <div align="center">
