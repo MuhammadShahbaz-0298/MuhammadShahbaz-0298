@@ -1,98 +1,54 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F2027,50:203A43,100:2C5364&height=230&section=header&text=Muhammad%20Shahbaz&fontSize=46&fontColor=ffffff&animation=twinkling&fontAlignY=32&desc=Full%20Stack%20Developer%20%7C%20.NET%20%7C%20React%20%7C%20Flutter&descAlignY=52&descSize=18" width="100%"/>
+# Muhammad Shahbaz
 
-<img src="https://user-images.githubusercontent.com/74038190/213866269-5d00981c-7c98-46d7-8a8e-16f462f15227.gif" width="80">
+**Full Stack Developer** &nbsp;·&nbsp; .NET &nbsp;·&nbsp; React &nbsp;·&nbsp; Flutter *(learning)*
 
-<a href="https://github.com/MuhammadShahbaz-0298">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=1000&color=58A6FF&center=true&vCenter=true&width=650&lines=Building+Modern%2C+Scalable+Apps+%F0%9F%9A%80;.NET+%2B+React+Developer+%E2%9A%A1;Learning+Flutter+%F0%9F%93%B1;I+debug+faster+than+I+sleep+%F0%9F%98%84;Turning+Coffee+Into+Code+%E2%98%95" alt="Typing SVG" />
-</a>
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=18&pause=1500&color=58A6FF&center=true&vCenter=true&width=520&lines=Building+scalable+full-stack+applications;.NET+%2B+React+in+production;Currently+learning+Flutter" alt="Typing SVG" />
 
-<br/>
+<br>
 
-<img src="https://komarev.com/ghpvc/?username=MuhammadShahbaz-0298&label=Profile%20Views&color=58A6FF&style=for-the-badge" alt="Profile Views"/>
-<img src="https://img.shields.io/github/followers/MuhammadShahbaz-0298?label=Followers&style=for-the-badge&color=58A6FF" alt="Followers"/>
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/MuhammadShahbaz-0298)
+[![Email](https://img.shields.io/badge/Email-333333?style=flat-square&logo=gmail&logoColor=white)](mailto:muhammadshahbazali001@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-333333?style=flat-square&logo=linkedin&logoColor=white)](#)
 
 </div>
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0F2027,50:2C5364,100:0F2027&height=4&section=header&text=&fontSize=0" width="100%"/>
+<br>
 
-<div align="center">
-  <img src="https://user-images.githubusercontent.com/74038190/216122041-518ac897-8d92-4c6b-9b3f-ca01dcaf38ee.png" width="28">
-  <h2>About Me</h2>
-</div>
+## About
 
-```yaml
-name: Muhammad Shahbaz
-role: Full Stack Developer
-currently_building: [.NET, React]
-learning: Flutter (mobile apps)
-strengths: [C#, OOP, Web Development]
-goal: Become a high-level full stack engineer
-fun_fact: "I debug faster than I sleep 😄"
-```
+I build full-stack web applications with **.NET** and **React**, with a focus on clean architecture and practical, maintainable code. Currently expanding into **Flutter** for cross-platform mobile development.
 
-<div align="center">
-<img src="https://user-images.githubusercontent.com/74038190/212747657-7a8d59da-69c8-4110-8ea8-f8102fd0b413.gif" width="320">
-</div>
+- 🔭 Working on full-stack apps with .NET + React
+- 🌱 Learning Flutter for mobile development
+- 💬 Ask me about C#, OOP, or web architecture
+- 📫 Reach me at **muhammadshahbazali001@gmail.com**
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0F2027,50:2C5364,100:0F2027&height=4&section=header&text=&fontSize=0" width="100%"/>
+<br>
 
-<div align="center">
-  <img src="https://user-images.githubusercontent.com/74038190/216122028-c05b52fb-983e-4ee8-8811-6f30cd9ea5d5.png" width="28">
-  <h2>Tech Stack</h2>
-</div>
+## Tech Stack
 
 <div align="center">
 
-<img src="https://skillicons.dev/icons?i=cs,dotnet,react,js,ts,html,css,bootstrap,tailwind,nodejs,php,mysql,git,github,flutter,dart&theme=dark&perline=8" alt="Tech Stack" />
-
-<br/><br/>
-
-<img src="https://user-images.githubusercontent.com/74038190/219923809-b86dc415-a0c2-4a38-bc88-ad6cf06395a8.gif" width="450">
+<img src="https://skillicons.dev/icons?i=cs,dotnet,react,js,ts,html,css,tailwind,nodejs,php,mysql,git,github,flutter,dart&theme=dark&perline=8" alt="Tech Stack" />
 
 </div>
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0F2027,50:2C5364,100:0F2027&height=4&section=header&text=&fontSize=0" width="100%"/>
+<br>
 
-<div align="center">
-  <img src="https://user-images.githubusercontent.com/74038190/221352987-68da234d-4d62-4e9d-9d7f-098dc657c2dc.gif" width="30">
-  <h2>GitHub Stats</h2>
-</div>
+## GitHub Activity
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=MuhammadShahbaz-0298&show_icons=true&theme=tokyonight&count_private=true&hide_border=true&rank_icon=github" alt="GitHub Stats" height="165"/>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MuhammadShahbaz-0298&layout=compact&theme=tokyonight&count_private=true&hide_border=true" alt="Top Languages" height="165"/>
-
-<br/>
-
-<img src="https://streak-stats.demolab.com?user=MuhammadShahbaz-0298&theme=tokyonight&hide_border=true&fire=58A6FF&ring=58A6FF&currStreakLabel=58A6FF" alt="GitHub Streak" />
-
-<br/>
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=MuhammadShahbaz-0298&theme=tokyo-night&hide_border=true&area=true" alt="Contribution Graph" width="95%"/>
+<img src="https://github-readme-stats.vercel.app/api?username=MuhammadShahbaz-0298&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="GitHub Stats" height="165"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MuhammadShahbaz-0298&layout=compact&theme=tokyonight&hide_border=true&count_private=true" alt="Top Languages" height="165"/>
 
 </div>
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0F2027,50:2C5364,100:0F2027&height=4&section=header&text=&fontSize=0" width="100%"/>
+<br>
 
-<div align="center">
-  <img src="https://user-images.githubusercontent.com/74038190/212284087-bbe7e430-757e-4901-90bf-4cd2ce3e1852.gif" width="30">
-  <h2>Contribution Snake</h2>
-
-<img src="https://raw.githubusercontent.com/MuhammadShahbaz-0298/MuhammadShahbaz-0298/output/github-contribution-grid-snake-dark.svg" alt="Snake animation" width="95%"/>
-
-<sub>💡 Add the <a href="https://github.com/Platane/snk">Platane/snk</a> GitHub Action to your profile repo to auto-generate this animated snake.</sub>
-
-</div>
-
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0F2027,50:2C5364,100:0F2027&height=4&section=header&text=&fontSize=0" width="100%"/>
-
-<div align="center">
-  <img src="https://user-images.githubusercontent.com/74038190/212284087-bbe7e430-757e-4901-90bf-4cd2ce3e1852.gif" width="30">
-  <h2>Featured Projects</h2>
-</div>
+## Featured Projects
 
 <div align="center">
 
@@ -102,9 +58,7 @@ fun_fact: "I debug faster than I sleep 😄"
 <a href="https://github.com/MuhammadShahbaz-0298/Salon-Management-System">
   <img src="https://github-readme-stats.vercel.app/api/pin/?username=MuhammadShahbaz-0298&repo=Salon-Management-System&theme=tokyonight&hide_border=true" alt="Salon Management System"/>
 </a>
-
-<br/>
-
+<br>
 <a href="https://github.com/MuhammadShahbaz-0298/Online-Recharge">
   <img src="https://github-readme-stats.vercel.app/api/pin/?username=MuhammadShahbaz-0298&repo=Online-Recharge&theme=tokyonight&hide_border=true" alt="Online Recharge"/>
 </a>
@@ -114,70 +68,10 @@ fun_fact: "I debug faster than I sleep 😄"
 
 </div>
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0F2027,50:2C5364,100:0F2027&height=4&section=header&text=&fontSize=0" width="100%"/>
+<br>
+
+---
 
 <div align="center">
-  <img src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/0d554abf-6a41-4856-be43-5dbb4df0915b" width="30">
-  <h2>GitHub Trophies</h2>
-  <img src="https://github-profile-trophy.vercel.app/?username=MuhammadShahbaz-0298&theme=tokyonight&no-frame=true&row=1&column=7&margin-w=8&animation=slideIn" alt="Trophies" />
-</div>
-
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0F2027,50:2C5364,100:0F2027&height=4&section=header&text=&fontSize=0" width="100%"/>
-
-<div align="center">
-  <img src="https://user-images.githubusercontent.com/74038190/216122069-5b8169d7-1d8e-4a13-b245-a8e4176c99f8.png" width="28">
-  <h2>Currently</h2>
-</div>
-
-```text
-🔭  Working on:     Full-stack apps with .NET + React
-🌱  Learning:       Flutter for cross-platform mobile
-👯  Open to:        Collaborating on web/mobile projects
-💬  Ask me about:   C#, .NET, React, OOP
-⚡  Fun fact:       I debug faster than I sleep 😄
-```
-
-<div align="center">
-
-![Quote](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)
-
-</div>
-
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0F2027,50:2C5364,100:0F2027&height=4&section=header&text=&fontSize=0" width="100%"/>
-
-<div align="center">
-  <img src="https://user-images.githubusercontent.com/74038190/216120981-b9507c36-0e04-4469-8e27-c99271b45ba5.png" width="28">
-  <h2>Connect With Me</h2>
-</div>
-
-<div align="center">
-
-<a href="https://github.com/MuhammadShahbaz-0298">
-  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
-</a>
-<!-- Replace # with your real LinkedIn / Portfolio links -->
-<a href="#">
-  <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
-</a>
-<a href="mailto:muhammadshahbazali001@gmail.com">
-  <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
-</a>
-<a href="#">
-  <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio"/>
-</a>
-
-<br/><br/>
-
-<img src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/19b4ef1d-2035-4e6f-8484-8bd79d604dc9" width="220">
-
-</div>
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:2C5364,50:203A43,100:0F2027&height=120&section=footer&animation=twinkling" width="100%"/>
-
-<div align="center">
-
-⭐ **Thanks for stopping by — from Muhammad Shahbaz**
-
-<img src="https://komarev.com/ghpvc/?username=MuhammadShahbaz-0298&style=flat-square&color=58A6FF" alt="visitor badge"/>
-
+<sub>⭐ Thanks for visiting — feel free to reach out</sub>
 </div>
