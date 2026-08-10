@@ -58,31 +58,15 @@ fun_fact: "I debug faster than I sleep"
 </div>
 
 ## Featured Projects
-<div align="center">
-<a href="https://github.com/MuhammadShahbaz-0298/Furniture-React-Native-Cli">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=MuhammadShahbaz-0298&repo=Furniture-React-Native-Cli&theme=tokyonight&hide_border=true" alt="Furniture React Native Cli"/>
-</a>
-<a href="https://github.com/MuhammadShahbaz-0298/Salon-Management-System">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=MuhammadShahbaz-0298&repo=Salon-Management-System&theme=tokyonight&hide_border=true" alt="Salon Management System"/>
-</a>
-<br/>
-<a href="https://github.com/MuhammadShahbaz-0298/Online-Recharge">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=MuhammadShahbaz-0298&repo=Online-Recharge&theme=tokyonight&hide_border=true" alt="Online Recharge"/>
-</a>
-<a href="https://github.com/MuhammadShahbaz-0298/Astronomy">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=MuhammadShahbaz-0298&repo=Astronomy&theme=tokyonight&hide_border=true" alt="Astronomy"/>
-</a>
-</div>
-<br/>
 
-<div align="center">
-  <img src="https://api.iconify.design/mdi/trophy-outline.svg?color=%2358A6FF" width="24" height="24"/>
-</div>
+| Project | Stack |
+|---|---|
+| [**Furniture-React-Native-Cli**](https://github.com/MuhammadShahbaz-0298/Furniture-React-Native-Cli) | ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black) |
+| [**Salon-Management-System**](https://github.com/MuhammadShahbaz-0298/Salon-Management-System) | ![CSS](https://img.shields.io/badge/CSS-1572B6?style=flat-square&logo=css3&logoColor=white) |
+| [**Online-Recharge**](https://github.com/MuhammadShahbaz-0298/Online-Recharge) | ![CSS](https://img.shields.io/badge/CSS-1572B6?style=flat-square&logo=css3&logoColor=white) |
+| [**Astronomy**](https://github.com/MuhammadShahbaz-0298/Astronomy) | ![HTML](https://img.shields.io/badge/HTML-E34F26?style=flat-square&logo=html5&logoColor=white) |
+| [**Mongo-Topics**](https://github.com/MuhammadShahbaz-0298/Mongo-Topics) | ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black) |
 
-## GitHub Trophies
-<div align="center">
-<img src="https://github-profile-trophy.vercel.app/?username=MuhammadShahbaz-0298&theme=tokyonight&no-frame=true&row=1&column=7&margin-w=8" alt="Trophies" />
-</div>
 <br/>
 
 <div align="center">
