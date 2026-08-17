@@ -68,7 +68,7 @@ fun_fact: "I debug faster than I sleep"
   <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
 </a>
 <!-- Replace # with your real LinkedIn / Portfolio links -->
-<a href="#">
+<a href="https://www.linkedin.com/in/muhammad-shahbaz-00614a338/">
   <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
 </a>
 <a href="mailto:muhammadshahbazali001@gmail.com">
