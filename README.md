@@ -76,7 +76,7 @@ fun_fact: "I debug faster than I sleep"
 </a>
 <img src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/19b4ef1d-2035-4e6f-8484-8bd79d604dc9" width="200">
 </div>
-<br/>
+<br/><br/>
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:2C5364,50:203A43,100:0F2027&height=100&section=footer" width="100%"/>
 <div align="center">
 ⭐ Thanks for stopping by — from Muhammad Shahbaz
